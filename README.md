@@ -2,7 +2,7 @@
 
 ## I'm a Developer,Blogger, and Open source Contributor!
 
-
+##Checkout my youtube channel at [Simplified Learning] (https://youtube.com/channel/UCrkD5KCLh2ObY7BvFqRMOVA) 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in TCS as a Front End Developer 
