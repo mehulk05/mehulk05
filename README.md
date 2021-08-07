@@ -12,14 +12,21 @@ Here are some ideas to get you started:
 - 💬 Ask me about any Questions Related to front end Technology
 
 
-### Connect with me:
+## Connect with me:
 
-[<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://personal-portfolio0320.000webhostapp.com/)
+<!-- [<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://personal-portfolio0320.000webhostapp.com/)
 [<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/mehul.kothari.39/)
 [<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Mehulk05)
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mehul-kothari-765868126/)
 [<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mehul_kothari05/)
-
+ -->
+<p align="left">
+<a href="https://twitter.com/mehulk2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehulk2011" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehul-kothari-765868126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-kothari-765868126" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9136663/mehul-kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9136663/mehul-kothari" height="30" width="40" /></a>
+<a href="https://instagram.com/mehul_kothari05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehul_kothari05" height="30" width="40" /></a>
+<a href="https://medium.com/@mehulkothari05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehulkothari05" height="30" width="40" /></a>
+</p>
 <br />
 
 ---
@@ -123,7 +130,7 @@ These are my latest posts on [Medium](https://medium.com/@mehulkothari05) and [D
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=mehulk05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=mehulk05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehulk05&show_icons=true&locale=en" /></a>
 
 
 ---
