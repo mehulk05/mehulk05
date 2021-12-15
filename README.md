@@ -1,4 +1,4 @@
-### Hi there, I'm Mehul Kothari - aka [Mehul ](https://mehulk05.github.io/Personal-Portfolio-Angular-Updated/) 👋
+### Hi there, I'm Mehul Kothari - aka [Mehul ](https://mehul-kothari.vercel.app//) 👋
 
 ## I'm a Developer,Blogger, and Open source Contributor!
 
